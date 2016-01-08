@@ -15,3 +15,6 @@ Destinations could be both topics(sender/subscriber) or queues(producer/consumer
 By default they are all topics.
 To create a queue, just name it starting with "queue^".
 (E.g. "/a/b" would be a topic, and "queue^/a/b" would be a queue.)
+
+
+http://erlangcentral.org/wiki/index.php/Building_a_Non-blocking_TCP_server_using_OTP_principles
